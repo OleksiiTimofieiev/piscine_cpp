@@ -16,6 +16,6 @@ d05: exception (try, catch), nested classes;
 
 d06: casts;
 
-d07: temlates (typename, default parameters, specializations, parametric macros);
+d07: templates (typename, default parameters, specializations, parametric macros);
 
 d08: STL (array, vector, etc.);
