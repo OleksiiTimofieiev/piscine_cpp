@@ -10,7 +10,7 @@ d02: functions && operator overloading
 
 d03: inheritance, diamond inheritance (inheritance from the2 or more classes);
 
-d04: virtual, abstract classes && interface;
+d04: virtual, abstract classes, interface;
 
 d05: exception (try, catch), nested classes;
 
